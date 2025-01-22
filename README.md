@@ -6,7 +6,7 @@ Este repositório contém as anotações e projetos desenvolvidos durante o curs
 
 ## TO-DO:  Anotações do Curso "HTML e CSS para Iniciantes"
 
-- [ ] Módulo 01: HTML e CSS Para Iniciantes
+- [X] Módulo 01: HTML e CSS Para Iniciantes
 - [ ] Módulo 02: HTML e CSS Básico
 - [ ] Módulo 03: CSS Posicionamento
 - [ ] Módulo 04: HTML e Semântica
