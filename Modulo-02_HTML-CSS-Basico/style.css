@@ -1,0 +1,28 @@
+a {
+    color: blue;
+    font-size: 24px;
+    margin: 15px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: aqua;
+    font-size: 36px;
+}
+
+.logo{
+    color: blueviolet;
+    font-size: 24px;
+    margin: 15px;
+}
+
+.logo-hover:hover{
+    color: lawngreen;
+    font-size: 42px;
+}
+
+#logo{
+    color:chocolate;
+    font-size: 24px;
+    margin: 15px;
+}

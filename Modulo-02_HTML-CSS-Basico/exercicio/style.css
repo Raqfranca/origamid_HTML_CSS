@@ -1,0 +1,24 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.filmes-hoje{
+    color: darkred;
+}
+
+.filmes-amanha{
+    color: darkblue;
+}
+
+.estado{
+    margin: 20px;
+    text-decoration: none;
+    font-size: 26px;
+    color: seagreen;
+}
+
+.sem-traco{
+    text-decoration: none;
+    font-size: 20px;
+    color: seagreen;
+}

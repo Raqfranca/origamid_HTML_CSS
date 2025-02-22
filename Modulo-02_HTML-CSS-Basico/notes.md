@@ -53,3 +53,54 @@ Exemplo da estrutura completa:
   </body>
 </html>
 
+# **Caminho (path)** 
+
+**Absoluto**
+
+<a href="https://www.origamid.com/cursos/">Origamid Cursos</a> - Usado para arquivos externos ao nosso site.
+
+**Relativo**
+
+<a href="/produtos/bicicletas.html">Bicicletas</a> - Usado para arquivos internos do site.
+
+# **Seletores**
+
+- Exemplo p/ css estilizar os elemtos html
+
+h1, p{
+
+}
+
+- A vírgula permite selecionarmos múltiplos elementos para a aplicação de um mesmo estilo.
+
+p a{
+
+}
+
+- Seleciona o a que tiver um p como elemento pai (não precisa ser filho direto).
+
+Atributo HTML que adiciona um identificador único na tag. Esse identificar pode ser utilizado no CSS para selecionarmos o elemento: #nomeid
+
+**class**
+
+Atributo HTML que adiciona um identificador reutilizável na tag. Esse identificar pode ser utilizado no CSS para selecionarmos o(s) elemento(s): .classe
+
+<h1 class="logo">oi</h1>
+
+//No CSS
+
+.logo{
+
+}
+
+**id**
+Atributo HTML que adiciona um identificador único na tag. Esse identificar pode ser utilizado no CSS para selecionarmos o elemento: #nomeid
+
+<h1 id="logo">oi</h1>
+
+//No CSS
+
+#logo{
+}
+
+
